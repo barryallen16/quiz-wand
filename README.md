@@ -4,6 +4,11 @@ A browser extension that automatically solves multiple-choice questions (MCQs) o
 
 ![Screenshot 2025-01-15 173418](https://github.com/user-attachments/assets/8bd3f03d-f1af-4da3-97d3-916effedf1e8)
 
+---
+
+## Available on Firefox Add-ons 🦊
+Quiz Wand is officially available on Firefox Add-ons for both desktop and mobile users. Download it here:  
+[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/quiz-wand/)
 
 ---
 
@@ -71,8 +76,3 @@ We welcome contributions! Here's how you can help:
 ## License 📜
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
----
-
-## Available on Firefox Add-ons 🦊
-Quiz Wand is officially available on Firefox Add-ons for both desktop and mobile users. Download it here:  
-[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/quiz-wand/)
