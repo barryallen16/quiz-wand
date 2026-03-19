@@ -3,11 +3,10 @@
 A browser extension that automatically solves multiple-choice questions (MCQs) on Google Forms using the **Google Gemini API**.
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="https://github.com/user-attachments/assets/8bd3f03d-f1af-4da3-97d3-916effedf1e8" alt="Screenshot" width="320">
-
-  <video width="320" height="240" controls autoplay muted loop>
-    <source src="https://github.com/user-attachments/assets/544e52d0-ae49-486b-bbe1-13c926b6dcc7" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  
+https://github.com/user-attachments/assets/544e52d0-ae49-486b-bbe1-13c926b6dcc7
+    
+</video>
 </div>
 
 
